@@ -1,5 +1,3 @@
-[TOCM]
-
 # Dockerize Codeigniter3 App With docker-compose
 
 ## Contents
