@@ -24,7 +24,7 @@ services:
       codeigniter_net:
 
   database:
-    image: mysql:5.7
+    image: mysql:latest
     networks:
       codeigniter_net:
     ports:
